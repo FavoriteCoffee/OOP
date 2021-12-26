@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\Enemys">
+      <UniqueIdentifier>{7ef789c1-572d-4949-af3e-2740b54f8be2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Items">
+      <UniqueIdentifier>{4f0a08bb-1369-48d3-8ea0-af41a1374404}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Enemys">
+      <UniqueIdentifier>{24cd7a36-5634-4753-ab16-a7c392074656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Items">
+      <UniqueIdentifier>{c28e96ef-1e6b-4f32-a67a-e92eabb2c178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Logger">
+      <UniqueIdentifier>{47802a19-c1bb-4074-9fea-4431da6de511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Logger">
+      <UniqueIdentifier>{95619804-ac6e-492b-bc87-02369ae91c0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Game">
+      <UniqueIdentifier>{f9b6acc8-f93b-4cdf-93c3-0e8067786074}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemys\Goblin.cpp">
+      <Filter>Исходные файлы\Enemys</Filter>
+    </ClCompile>
+    <ClCompile Include="Field\Field.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemys\Orc.cpp">
+      <Filter>Исходные файлы\Enemys</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemys\Troll.cpp">
+      <Filter>Исходные файлы\Enemys</Filter>
+    </ClCompile>
+    <ClCompile Include="Items\Battery.cpp">
+      <Filter>Исходные файлы\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Items\HealthPotion.cpp">
+      <Filter>Исходные файлы\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Items\MandalorianArmor.cpp">
+      <Filter>Исходные файлы\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Items\PowerPotion.cpp">
+      <Filter>Исходные файлы\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger\Logger.cpp">
+      <Filter>Исходные файлы\Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger\Logger2.cpp">
+      <Filter>Исходные файлы\Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Rules.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="IniFile\IniFile.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Input\Input.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Player\Player.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI\SFMLScene.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Field\Cell.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="IObject.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="IKeys.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemys\Goblin.h">
+      <Filter>Файлы заголовков\Enemys</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemys\Enemy.h">
+      <Filter>Файлы заголовков\Enemys</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemys\Orc.h">
+      <Filter>Файлы заголовков\Enemys</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\Field.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemys\Troll.h">
+      <Filter>Файлы заголовков\Enemys</Filter>
+    </ClInclude>
+    <ClInclude Include="Items\Battery.h">
+      <Filter>Файлы заголовков\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Items\HealthPotion.h">
+      <Filter>Файлы заголовков\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Items\MandalorianArmor.h">
+      <Filter>Файлы заголовков\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Items\PowerPotion.h">
+      <Filter>Файлы заголовков\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger\Logger.h">
+      <Filter>Файлы заголовков\Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger\Logger2.h">
+      <Filter>Файлы заголовков\Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Game.h">
+      <Filter>Файлы заголовков\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\IGame.h">
+      <Filter>Файлы заголовков\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Rules.h">
+      <Filter>Файлы заголовков\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="IniFile\IniFile.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Input\Input.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Player\Player.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI\SFMLScene.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Field\Cell.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Items\Item.h">
+      <Filter>Файлы заголовков\Items</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

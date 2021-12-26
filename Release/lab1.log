@@ -1,0 +1,17 @@
+﻿  Battery.cpp
+  Cell.cpp
+  Field.cpp
+  Goblin.cpp
+  HealthPotion.cpp
+  main.cpp
+  MandalorianArmor.cpp
+  Orc.cpp
+  Player.cpp
+  Point.cpp
+  PowerPotion.cpp
+  Troll.cpp
+C:\education\programming\lab_1_oop\lab1\Troll.cpp(50,14): error C2248: Field::field: невозможно обратиться к private член, объявленному в классе "Field"
+C:\education\programming\lab_1_oop\lab1\Field.h(49): message : см. объявление "Field::field"
+C:\education\programming\lab_1_oop\lab1\Field.h(6): message : см. объявление "Field"
+C:\education\programming\lab_1_oop\lab1\Troll.cpp(50,56): error C2440: =: невозможно преобразовать "Cell" в "Cell *"
+C:\education\programming\lab_1_oop\lab1\Troll.cpp(50,55): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен

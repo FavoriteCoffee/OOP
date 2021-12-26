@@ -1,0 +1,65 @@
+﻿  Goblin.cpp
+  Orc.cpp
+  Troll.cpp
+  Cell.cpp
+  Field.cpp
+  Rules.cpp
+  SFMLScene.cpp
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(64,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(64,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(80,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(80,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(100,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(100,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(105,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(105,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(110,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(110,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(120,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(120,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(138,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(141,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(146,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\GUI\SFMLScene.cpp(149,52): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  IniFile.cpp
+C:\education\programming\lab_1_oop\lab1\IniFile\IniFile.cpp(52,6): warning C4101: valInt: неиспользованная локальная переменная
+  Input.cpp
+  Battery.cpp
+  HealthPotion.cpp
+  MandalorianArmor.cpp
+  PowerPotion.cpp
+  Logger.cpp
+  Logger2.cpp
+  Player.cpp
+  main.cpp
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(1127,15): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(1099): message : во время компиляции функции-члена класс шаблон "void Game<Rule3>::run(void)"
+C:\education\programming\lab_1_oop\lab1\main.cpp(22): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Game<Rule3>::run(void)"
+C:\education\programming\lab_1_oop\lab1\main.cpp(21): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Game<Rule3>"
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(36,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(55): message : во время компиляции функции-члена класс шаблон "Game<Rule3>::Game(Field *,Rule)"
+          with
+          [
+              Rule=Rule3
+          ]
+C:\education\programming\lab_1_oop\lab1\main.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "Game<Rule3>::Game(Field *,Rule)"
+          with
+          [
+              Rule=Rule3
+          ]
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(744,7): warning C4101: y: неиспользованная локальная переменная
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(741): message : во время компиляции функции-члена класс шаблон "void Game<Rule3>::loadField(void)"
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(1085): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Game<Rule3>::loadField(void)"
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(743,7): warning C4101: x: неиспользованная локальная переменная
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(494,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(488): message : во время компиляции функции-члена класс шаблон "void Game<Rule3>::deleteGame(void)"
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(1083): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Game<Rule3>::deleteGame(void)"
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(498,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(502,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(617,7): warning C4101: energy: неиспользованная локальная переменная
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(610): message : во время компиляции функции-члена класс шаблон "bool Game<Rule3>::checkEnymyData(int,int,std::string)"
+C:\education\programming\lab_1_oop\lab1\Game\Game.h(727): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool Game<Rule3>::checkEnymyData(int,int,std::string)"
+  Создание кода...
+C:\education\programming\lab_1_oop\lab1\Field\Field.cpp(208): warning C4715: Field::moveEnemy: значение возвращается не при всех путях выполнения
+C:\education\programming\lab_1_oop\lab1\Enemys\Goblin.cpp(94): warning C4715: Goblin::move: значение возвращается не при всех путях выполнения
+  lab1.vcxproj -> C:\education\programming\lab_1_oop\lab1\x64\Debug\lab1.exe

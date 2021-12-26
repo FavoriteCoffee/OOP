@@ -1,0 +1,11 @@
+PLAYER: position: (2, 3) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (2, 4) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (2, 5) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (3, 5) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (4, 5) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (5, 5) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (6, 5) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (6, 6) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (7, 7) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (8, 8) health: 10 defence: 4 attack: 5 energy: 0 
+PLAYER: position: (9, 8) health: 10 defence: 4 attack: 5 energy: 0 
